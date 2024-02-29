@@ -8,7 +8,7 @@
 
 👩‍💻 I am currently an undergraduate researcher at UFABC while diving deeply into the exciting world of Data Science.
 
-📚 The topic of my research is "analysis of the socioeconomic and cultural profile of ufabc entrants: there is democracy in the 21st century university?"
+📚 The topic of my research is "analysis of the socioeconomic and cultural profile of UFABC entrants: there is democracy in the 21st century university?"
 
 💡 I'm passionate about mathematics and I'm a volunteer teacher at a pre-university course (EPUFABC - Escola Preparatória da UFABC)
 
