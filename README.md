@@ -10,9 +10,15 @@
 
 📚 The topic of my research is "analysis of the socioeconomic and cultural profile of UFABC entrants: there is democracy in the 21st century university?"
 
-💡 I'm passionate about mathematics and I'm a volunteer teacher at a pre-university course (EPUFABC - Escola Preparatória da UFABC)
+💡 I am passionate about mathematics and I am a volunteer teacher at a popular prep course (EPUFABC - Escola Preparatória da UFABC)
 
 🌐 Let's connect and explore the intersection of Math and Data Science together!
+
+<br/>
+
+⛏️ My portfolio in Data Science / Data Mining - [Click Here](https://github.com/lucasarauj0h/data-science)
+
+🌟 My portfolio in Power BI - [Click Here](https://sites.google.com/aluno.ufabc.edu.br/portfolio/p%C3%A1gina-inicial)
 
 <br/>
 
