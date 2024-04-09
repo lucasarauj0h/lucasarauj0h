@@ -20,6 +20,8 @@
 
 🌟 My portfolio in Power BI - [Click Here](https://sites.google.com/aluno.ufabc.edu.br/portfolio/p%C3%A1gina-inicial)
 
+📜 My CV - [Click Here](https://drive.google.com/file/d/1N31THHOOnkWofWmIzMXVIRc1eyoyd9RI/view)
+
 <br/>
 
 <hr>
